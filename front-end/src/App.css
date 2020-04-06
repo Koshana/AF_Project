@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.header01{
+
+  /*font-family: 'Dancing Script', cursive;*/
+  /*font-family: 'Caveat', cursive;*/
+  /*font-family: 'Special Elite', cursive;*/
+  font-family: 'Sacramento', cursive;
+  /*font-family: 'Parisienne', cursive;*/
+  /*font-family: 'Aclonica', sans-serif;*/
+  /*font-family: 'Cinzel Decorative', cursive;*/
+  /*font-family: 'Rye', cursive;*/
+  font-size: xx-large;
+}
+
+.page-footer{
+  border: black solid 1px;
+}
+
+.title01{
+
+  font-family: 'Special Elite', cursive;
+}
+.card{
+  border: black solid 1px;
+}
+
+.modal-title{
+  font-family: 'Aclonica', sans-serif;
+}
